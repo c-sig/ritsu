@@ -1,2 +1,2 @@
-tortoise-orm == 0.20.0
+peewee == 3.17.0
 py-cord == 2.4.1

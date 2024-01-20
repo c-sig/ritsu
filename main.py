@@ -1,7 +1,5 @@
 import os
 import discord
-import tortoise
-
 
 
 
