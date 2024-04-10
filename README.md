@@ -13,6 +13,7 @@ a checklist of important stuff:
 - [ ] job functions
 
 good features:
+- [ ] different credit names
 - [ ] conditional dibs system
 - [ ] proper rendering. ui components with pages, dropdowns, buttons, modals, etc for ease of use
 - [ ] dm/ping users for vacant jobs theyre eligible for (opt out)
