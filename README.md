@@ -27,6 +27,7 @@ good features:
 - [ ] check how far behind current compared to raws
 - [ ] proper raw reminding (track releases and possibly automate chapter creation)
 - [ ] list people by role
+- [ ] credit page automation
 
 database structure:
 tbd (sketching it out for the 10th time to make sure i dont lose detail)
