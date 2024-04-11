@@ -1,3 +1,4 @@
+```
 Table user {
   id string [pk]
   joined_at int
@@ -49,3 +50,4 @@ Table job {
   claimed_on int
   page_id int [ref: > page.id]
 }
+```
