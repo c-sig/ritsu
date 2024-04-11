@@ -5,6 +5,7 @@ ritsu will primarily be used as a discord bot.
 the goal of ritsu is to make everything completely transparent while maintaining anonymity for things that should stay anonymous.
 
 a checklist of important stuff:
+- [ ] docker
 - [ ] work out CI/CD as this will be deployed to docker continuously for simplicity and to allow people to contribute directly
 - [ ] proper logging to file, stdout, and discord or email
 - [ ] concrete database that should cover all potential usecases (as much data as possible)
