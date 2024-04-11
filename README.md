@@ -30,3 +30,4 @@ good features:
 - [ ] proper raw reminding (track releases and possibly automate chapter creation)
 - [ ] list people by role
 - [ ] credit page automation
+- [ ] reputation
