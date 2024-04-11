@@ -13,6 +13,7 @@ a checklist of important stuff:
 - [ ] job functions
 
 good features:
+- [ ] make qc more open
 - [ ] different credit names
 - [ ] conditional dibs system
 - [ ] proper rendering. ui components with pages, dropdowns, buttons, modals, etc for ease of use
